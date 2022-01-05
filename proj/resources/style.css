@@ -1,0 +1,29 @@
+body, html {
+    background-color: bisque;
+}
+
+.banner {
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg") !important;
+}
+
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+a {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+.green {
+    background-color: mediumspringgreen;
+}
+.pink { 
+    background-color: lightcoral;
+}
+.blue {
+    background-color: skyblue;
+}
