@@ -1,29 +1,17 @@
-body, html {
-    background-color: bisque;
-}
 
-.banner {
-    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg") !important;
+.container {
+    background-color: rgb(91, 105, 87);
+    padding: 2% 5%;
+}
+.banner img {
+    height: 150px ; 
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 
 h1 {
-    font-family: Helvetica;
-    font-size: 100px;
+    font-size: 80px;
     font-weight: bold;
-    color: khaki;
     text-align: center;
-}
-a {
-    font-family: Helvetica;
-    font-weight: bold;
-    color: blue;
-}
-.green {
-    background-color: mediumspringgreen;
-}
-.pink { 
-    background-color: lightcoral;
-}
-.blue {
-    background-color: skyblue;
 }
