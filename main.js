@@ -1,10 +1,10 @@
-function openNav() {
-    document.getElementById("mySidenav").style.width = "230px";
-}
+// function openNav() {
+//     document.getElementById("mySidenav").style.width = "230px";
+// }
 
-function closeNav() {
-    document.getElementById("mySidenav").style.width = "0";
-}
+// function closeNav() {
+//     document.getElementById("mySidenav").style.width = "0";
+// }
 
 var slideIndex = 1;
 showDivs(slideIndex);

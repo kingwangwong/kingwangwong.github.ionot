@@ -20,8 +20,11 @@
   left:5%;
   padding: 13px 20px;
   border-radius: 100%;
-  border: none;
   background-color: rgb(209, 227, 235);
+  z-index: 2;
+  border-style: solid;
+  border-color: #111;
+
 }
 .right-button {
   position:fixed;
@@ -29,9 +32,9 @@
   right:5%;
   padding: 13px 20px;
   border-radius: 100%;
-  border: none;
   background-color: rgb(209, 227, 235);
-
+  border-style: solid;
+  border-color: #111;
 }
 .mySlides {
   display: block;
@@ -72,7 +75,7 @@ a {
 
 .sidenav {
     height: 100%;
-    width: 0;
+    width: 230px;
     position: fixed;
     z-index: 1;
     top: 0;
